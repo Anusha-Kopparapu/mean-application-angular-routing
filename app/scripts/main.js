@@ -1,3 +1,4 @@
+// console.log('\'Allo \'Allo!');
 var app=angular.module('routerApp', ['ngRoute'])
   
   // create the controllers
